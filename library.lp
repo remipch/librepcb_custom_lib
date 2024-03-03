@@ -1,0 +1,11 @@
+(librepcb_library b599373a-abe4-46b7-8f73-eda9defd56cd
+ (name "librepcb_custom_lib")
+ (description "Standard devices that are absent or incomplete in the LibrePCB default libraries")
+ (keywords "")
+ (author "Rémi Peuchot")
+ (version "0.1")
+ (created 2024-03-03T22:41:53Z)
+ (deprecated false)
+ (url "")
+ (manufacturer "")
+)
