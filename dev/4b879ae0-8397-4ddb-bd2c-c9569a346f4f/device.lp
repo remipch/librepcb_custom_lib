@@ -1,7 +1,7 @@
 (librepcb_device 4b879ae0-8397-4ddb-bd2c-c9569a346f4f
- (name "Generic Pin Socket 2.54mm 1x06 ⌀0.7mm")
+ (name "FH connector 1x06")
  (description "A 1x6 generic female pin socket with 2.54mm pin spacing and 0.9mm drill holes.\n\n(duplicated from LibrePCB connector lib)")
- (keywords "connector, 1x6, d0.7, pin socket, female header, tht, generic")
+ (keywords "connector, 1x6, d0.9, pin socket, female header, tht, generic")
  (author "Rémi Peuchot")
  (version "0.1")
  (created 2024-03-04T21:35:24Z)

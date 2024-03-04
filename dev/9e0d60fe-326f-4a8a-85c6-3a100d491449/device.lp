@@ -1,7 +1,7 @@
 (librepcb_device 9e0d60fe-326f-4a8a-85c6-3a100d491449
- (name "Generic Pin Socket 2.54mm 1x08 ⌀0.7mm")
+ (name "FH connector 1x08")
  (description "A 1x8 generic female pin socket with 2.54mm pin spacing and 0.9mm drill holes.\n\n(duplicated from LibrePCB connector lib)")
- (keywords "connector, 1x8, d0.7, pin socket, female header, tht, generic")
+ (keywords "connector, 1x8, d0.9, pin socket, female header, tht, generic")
  (author "Rémi Peuchot")
  (version "0.1")
  (created 2024-03-04T21:31:21Z)
