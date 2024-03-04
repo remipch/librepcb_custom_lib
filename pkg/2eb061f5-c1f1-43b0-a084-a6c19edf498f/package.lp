@@ -8,7 +8,7 @@
  (deprecated false)
  (generated_by "")
  (category ee75e31d-f231-41d9-8a3b-bea5114f41e3)
- (assembly_type auto)
+ (assembly_type tht)
  (pad 20a9e477-3e0e-49e6-a5a8-a8f1435d1526 (name "1"))
  (pad 8bf77ba5-65e4-475b-b867-858a03bb713d (name "2"))
  (3d_model 4f852cc3-1c23-46a5-8727-77e49fe959bc (name "MKT370 CAPACITOR W2.5mm H6.5mm L7.2mm"))
