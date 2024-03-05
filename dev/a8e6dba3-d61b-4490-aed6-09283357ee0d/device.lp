@@ -1,6 +1,6 @@
 (librepcb_device a8e6dba3-d61b-4490-aed6-09283357ee0d
  (name "Arduino Pro Mini")
- (description "A cheap Arduino board based on the ATMEGA328P.")
+ (description "A cheap Arduino board based on the ATMEGA328P.\n\nNote : A4,A5,A6,A7 are not yet included in this device because they are in the middle of the board")
  (keywords "")
  (author "remi")
  (version "0.1")
