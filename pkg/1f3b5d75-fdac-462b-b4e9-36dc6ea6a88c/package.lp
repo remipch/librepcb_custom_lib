@@ -16,13 +16,11 @@
  (pad 9ec98566-f72a-4360-a3fe-535e04cdae75 (name "5"))
  (pad d604e9e2-cfd4-40f3-9b66-ed7838b184d3 (name "6"))
  (pad 71997e4d-e695-4b84-bf20-676229e00947 (name "7"))
- (3d_model 0e8ef7ef-03db-46ad-8802-9ff162029fa2 (name "FH_CONNECTOR 1x8"))
  (3d_model f2d07e1a-c8e2-45fa-98a8-1956da01314f (name "FH_CONNECTOR 1x7"))
  (footprint df768b94-32c9-4058-b1eb-bf362c7a24fc
   (name "default")
   (description "")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
-  (3d_model 0e8ef7ef-03db-46ad-8802-9ff162029fa2)
   (3d_model f2d07e1a-c8e2-45fa-98a8-1956da01314f)
   (pad e4ab613f-0b63-490d-8fcc-eefab55c6a10 (side top) (shape roundrect)
    (position 0.0 7.62) (rotation 0.0) (size 2.19 1.587) (radius 0.0)
