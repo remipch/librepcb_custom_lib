@@ -9,7 +9,7 @@
  (generated_by "")
  (category ade6d8ff-3c4f-4dac-a939-cc540c87c280)
  (schematic_only false)
- (default_value "{{MPN or DEVICE}}")
+ (default_value "{{MPN or DEVICE or COMPONENT}}")
  (prefix "J")
  (signal 755aa1cf-c2cf-4564-a368-edbf9df2643c (name "GND") (role passive)
   (required true) (negated false) (clock false) (forced_net "")
