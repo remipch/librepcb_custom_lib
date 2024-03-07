@@ -9,7 +9,7 @@
  (generated_by "")
  (category ade6d8ff-3c4f-4dac-a939-cc540c87c280)
  (schematic_only false)
- (default_value "{{MPN or DEVICE}}")
+ (default_value "{{MPN or DEVICE or COMPONENT}}")
  (prefix "J")
  (signal 016178a7-452b-4ead-a67b-37c68c421bc7 (name "A_IN1") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
