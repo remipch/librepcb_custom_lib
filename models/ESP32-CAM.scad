@@ -12,6 +12,10 @@ board_depth = 2;
 board_offset_y = -26.5;
 board_offset_z = 11;
 
+components_color = [0.7,0.7,0.7];
+components_width = 16;
+components_depth = 4;
+
 pin_color = [0.9,0.9,0.9];
 pin_height = 6;
 pin_width = 0.4;
@@ -67,6 +71,9 @@ module board() {
     color(board_color)
         translate([-board_width/2,board_offset_y,board_offset_z])            
             cube([board_width,board_length,board_depth]);
+    color(components_color)
+        translate([-components_width/2,board_offset_y,board_offset_z-components_depth])
+            cube([components_width,board_length,components_depth]);
     translate([0,camera_offset_y,board_offset_z+board_depth])
         camera();
 }
